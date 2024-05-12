@@ -8,7 +8,7 @@
 
 ---
 
-## Section 3 - AWS Identity and Access Management (AWS IAM)
+## Section 4 - AWS Identity and Access Management (AWS IAM)
 
 - **Summary slide: x**
 
