@@ -10,8 +10,9 @@
 
 ## Section 4 - AWS Identity and Access Management (AWS IAM)
 
-- **Summary slide: x**
+- **Summary slide: 40**
 
 **TO REMEMBER**
 
-- 
+- Access keys
+- IAM Roles
