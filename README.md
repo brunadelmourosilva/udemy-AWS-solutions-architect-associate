@@ -16,3 +16,14 @@
 
 - Access keys
 - IAM Roles
+
+---
+
+## Sections 5 - 7  - EC2 (fundamentals, SAA level and storange)
+
+- **Summary slide:**
+
+**TO REMEMBER**
+
+---
+
