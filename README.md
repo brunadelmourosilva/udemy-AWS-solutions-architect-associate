@@ -27,3 +27,11 @@
 
 ---
 
+
+## Sections 8  - ELB & ASG
+
+- **Summary slide:**
+
+**TO REMEMBER**
+
+---
