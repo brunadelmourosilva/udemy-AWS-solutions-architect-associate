@@ -1,5 +1,8 @@
 # udemy-AWS-solutions-architect-associate
 
+## Study interrupted in:
+ - ECS
+
 ## Course: 
 - https://uciandt.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
 
